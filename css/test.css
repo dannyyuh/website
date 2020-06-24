@@ -1,31 +1,25 @@
 body{
 	background-color: pink;
 }
-
 h1{
 	font-size: 30px;
 	color: teal;
     font-family: "Lucida Console", monospace;
 }
-
 h2{
 	color: maroon;
 	font-size: 20px;
     font-family: "Lucida Console", monospace;
 }
-
 .big{
 	font-size: 60px;
 }
-
 .lowercase{
 	text-transform: lowercase;
 }
-
 .big.lowercase{
 	color: navy;
 }
-
 h1 span{
 	color: purple;
 }
